@@ -6,7 +6,7 @@
 - Phone: 1258792469
 - E-mail: olexandr984@gmail.com
 - GitHub: Aleks_16 (Aleks-16)
-- Discord: Aleks_16 
+- Discord: Aleks-16 
 
 ---
 
