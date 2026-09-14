@@ -1,0 +1,15 @@
+CSS
+/* Базовый сброс отступов для всех элементов */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Базовые стили для всей страницы */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #ffffff;
+    color: #333333;
+}
