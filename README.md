@@ -1,2 +1,3 @@
 # rsschool-cv
- https://Aleks-16.github.io/rsschool-cv/
+https://aleks-16.github.io/rsschool-cv/cv
+https://Aleks-16.github.io/rsschool-cv/
