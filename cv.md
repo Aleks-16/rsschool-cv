@@ -1,7 +1,7 @@
-#Oleksandr Oleksandrov
-## #Oleksandr Oleksandrov
+# Oleksandr Oleksandrov
+## # Oleksandr Oleksandrov
 
-##My Contact:
+## My Contact:
 
 - Phone: 1258792469
 - E-mail: olexandr984@gmail.com
@@ -10,7 +10,7 @@
 
 ---
 
-##About Me
+## About Me
 My name is Oleksandr, I decided to change my profession. At the moment, I am working and studying web development, I have finished several marathons and tried a two-week demo course, but what I met here is just berries in the press.
 
 ---
@@ -25,9 +25,7 @@ My name is Oleksandr, I decided to change my profession. At the moment, I am wor
 
 ---
 
-##
-
-Code Examples
+## Code Examples
 
 ```
 const assert = require("chai").assert;
@@ -47,7 +45,7 @@ describe("Multiply", () => {
 
 ---
 
-##Education
+## Education
 
 ### University
 
