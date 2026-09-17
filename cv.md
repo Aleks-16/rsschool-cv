@@ -1,5 +1,5 @@
 # Oleksandr Oleksandrov
-## gitgitOleksandr Oleksandrov
+## Oleksandr Oleksandrov
 
 ## My Contact:
 
@@ -25,9 +25,7 @@ My name is Oleksandr, I decided to change my profession. At the moment, I am wor
 
 ---
 
-##
-
-Code Examples
+## Code Examples
 
 ```
 const assert = require("chai").assert;
@@ -47,7 +45,7 @@ describe("Multiply", () => {
 
 ---
 
-##Education
+## Education
 
 ### University
 
